@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+FMLCorePluginContainsFMLMod: true
+FMLAT: guinness_at.cfg
+TweakClass: org.spongepowered.asm.launch.MixinTweaker
+ForceLoadAsMod: true
+FMLCorePlugin: dev.guinness.client.mixin.MixinLoader
+
